@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/yumuxing.github.io/static/css/main.db6412f1.chunk.css",
+    "main.js": "/yumuxing.github.io/static/js/main.cbd88c49.chunk.js",
+    "main.js.map": "/yumuxing.github.io/static/js/main.cbd88c49.chunk.js.map",
+    "runtime~main.js": "/yumuxing.github.io/static/js/runtime~main.27919a88.js",
+    "runtime~main.js.map": "/yumuxing.github.io/static/js/runtime~main.27919a88.js.map",
+    "vendors~main.css": "/yumuxing.github.io/static/css/vendors~main.5bc09813.chunk.css",
+    "vendors~main.js": "/yumuxing.github.io/static/js/vendors~main.b3388afb.chunk.js",
+    "vendors~main.js.map": "/yumuxing.github.io/static/js/vendors~main.b3388afb.chunk.js.map",
+    "static/js/3.b5cbd030.chunk.js": "/yumuxing.github.io/static/js/3.b5cbd030.chunk.js",
+    "static/js/3.b5cbd030.chunk.js.map": "/yumuxing.github.io/static/js/3.b5cbd030.chunk.js.map",
+    "static/js/4.11883b90.chunk.js": "/yumuxing.github.io/static/js/4.11883b90.chunk.js",
+    "static/js/4.11883b90.chunk.js.map": "/yumuxing.github.io/static/js/4.11883b90.chunk.js.map",
+    "static/js/5.51661e3f.chunk.js": "/yumuxing.github.io/static/js/5.51661e3f.chunk.js",
+    "static/js/5.51661e3f.chunk.js.map": "/yumuxing.github.io/static/js/5.51661e3f.chunk.js.map",
+    "static/js/6.ed81da07.chunk.js": "/yumuxing.github.io/static/js/6.ed81da07.chunk.js",
+    "static/js/6.ed81da07.chunk.js.map": "/yumuxing.github.io/static/js/6.ed81da07.chunk.js.map",
+    "index.html": "/yumuxing.github.io/index.html",
+    "precache-manifest.8babbcd0e12d8532d2417beb160453c6.js": "/yumuxing.github.io/precache-manifest.8babbcd0e12d8532d2417beb160453c6.js",
+    "service-worker.js": "/yumuxing.github.io/service-worker.js",
+    "static/css/main.db6412f1.chunk.css.map": "/yumuxing.github.io/static/css/main.db6412f1.chunk.css.map",
+    "static/css/vendors~main.5bc09813.chunk.css.map": "/yumuxing.github.io/static/css/vendors~main.5bc09813.chunk.css.map",
+    "static/media/green_mountain.jpg": "/yumuxing.github.io/static/media/green_mountain.facdcf9d.jpg",
+    "static/media/jujingyi.png": "/yumuxing.github.io/static/media/jujingyi.7d71cf99.png",
+    "static/media/xinqiji.png": "/yumuxing.github.io/static/media/xinqiji.317b6bf6.png"
+  }
+}
